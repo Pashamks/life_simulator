@@ -11,3 +11,6 @@ The playing surface is an infinite or limited field divided into a certain numbe
 The game world develops without the help of a player. From it you only need to arrange the cells for the first generation. Often the development of the world becomes completely unpredictable. Cells form complex patterns, and as soon as you begin to think that you have understood everything, they suddenly die out, or "hang" in an endless cycle.
 
 # About program
+In this program you have two parameters :
+1) Resolution - this parameter control how close you will see cells.
+2) Density - this parameter control how many cells you will see.
