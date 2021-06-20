@@ -14,3 +14,11 @@ The game world develops without the help of a player. From it you only need to a
 In this program you have two parameters :
 1) Resolution - this parameter control how close you will see cells.
 2) Density - this parameter control how many cells you will see.
+
+You also have three buttons :
+1) Start - to start a new genration.
+2) Stop - to stop moving current generation (you can't press this button if you won't press "Start").
+3) Continue - if you pressed "Stop"? you can press "Continue" to continue the life of cells.
+
+# Learn more
+https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D1%82%D1%8F_(%D0%B3%D1%80%D0%B0)
